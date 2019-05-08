@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: page
-permalink: "/about"
+permalink: "/posts"
 comments: false
 ---
 
