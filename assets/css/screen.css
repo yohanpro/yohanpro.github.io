@@ -296,7 +296,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 40px;
     margin-right: 5px;
 }
 
@@ -707,7 +707,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    ffont-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
     font-size: 1rem;
 }
 .center{
@@ -898,3 +898,8 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.alertbar .alertbar__img{
+    width: 16%;
+    vertical-align: middle;
+} 
