@@ -903,3 +903,7 @@ iframe {
     width: 16%;
     vertical-align: middle;
 } 
+
+.color--red{
+    color: red;
+}
