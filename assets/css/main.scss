@@ -5,11 +5,12 @@
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
-	display:inline;
+  display: inline;
 }
 
+.noto {
+  font-family: "Noto Sans KR", sans-serif !important;
+}
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&subset=korean");
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+@import "syntax", "starsnonscss", "custom";
