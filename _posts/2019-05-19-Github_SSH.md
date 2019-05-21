@@ -17,7 +17,7 @@ Git과 Github에 익숙하지 않았고 뭘 어떻게 사용하고 관리해야 
 따라서 모든 Git 활동을 yohanpro@yohanpro.com의 깃헙으로 통일하려고 한다.
 
 이럴 경우 문제가 되는게 push를 할 경우
-![error]({{ site.baseurl }}/assets/images/ssh/error.png){.center}{:width="400"}
+![error]({{ site.baseurl }}/assets/images/ssh/error.png){:.center}{:width="400"}
 
 **access right**를 뱉어내며 권한이 없다고 한다.
 
