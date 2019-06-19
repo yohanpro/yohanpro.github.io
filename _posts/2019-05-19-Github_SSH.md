@@ -4,7 +4,6 @@ title: "Github에 SSH 추가하기"
 author: john
 categories: [SSH, Github]
 image: assets/images/ssh/ssh.png
-featured: true
 comments: true
 description: "Github에 SSH추가"
 ---
